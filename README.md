@@ -1,7 +1,5 @@
-# Card-Counter
+# Card-Counter - Go to the .exe file to download the card counter
 For Counting Cards!
-
-#Go to the .exe file to download the card counter
 
 Features Count and True Count using High-Low card counting methods.
 
