@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter.ttk import *
-from time import sleep
-from tkinter import messagebox
+import sv_ttk
 
 count = 0
 trueCount = float(0.00)
@@ -184,5 +183,6 @@ percentWonLabel.grid(row=1, column=2, rowspan=2)
 
 resetAllButton.grid(row=7, column=0, columnspan=3, pady=10)
 
+sv_ttk.set_theme("dark")
 
 window.mainloop()
